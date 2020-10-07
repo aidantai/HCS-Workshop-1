@@ -17,8 +17,8 @@
 }
 
 .timeline-item:hover {
-  -webkit-transform: scale(2);
-  transform: scale(2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
   background-color: cornflowerblue;
 }
 
@@ -45,7 +45,7 @@ p {
   flex-direction: column;
   width: 50%;
   height: calc(100%);
-  background: crimson;
+  background: lightblue;
   position: -webkit-sticky;
   position: sticky;
   top: 48px;

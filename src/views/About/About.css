@@ -1,7 +1,14 @@
 .intro-background {
+  display: flex;
+  flex-direction: row;
 }
 
 .intro-item {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .intro-item h1,
